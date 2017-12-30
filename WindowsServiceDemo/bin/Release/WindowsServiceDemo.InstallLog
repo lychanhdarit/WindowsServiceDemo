@@ -1,0 +1,39 @@
+﻿Installing assembly 'D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.exe
+   logtoconsole = 
+Installing service BBackupServices...
+Service BBackupServices has been successfully installed.
+Creating EventLog source BBackupServices in log Application...
+Committing assembly 'D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.exe
+Removing EventLog source BBackupServices.
+Service BBackupServices is being removed from the system...
+Service BBackupServices was successfully removed from the system.
+Attempt to stop service BBackupServices.
+Installing assembly 'D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.exe
+   logtoconsole = 
+Installing service BBackupServices...
+Service BBackupServices has been successfully installed.
+Creating EventLog source BBackupServices in log Application...
+Committing assembly 'D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.InstallLog
+   assemblypath = D:\WindowsServiceDemo\WindowsServiceDemo\bin\Release\WindowsServiceDemo.exe
+   logtoconsole = 

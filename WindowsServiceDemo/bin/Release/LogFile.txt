@@ -1,0 +1,7 @@
+﻿12/30/2017 1:39 PM: Timer has ticked for doing something!!!
+12/30/2017 1:40 PM: Đã backup!!!
+12/30/2017 1:40 PM: Timer has ticked for doing something!!!
+12/30/2017 1:41 PM: Timer has ticked for doing something!!!
+12/30/2017 1:42 PM: Timer has ticked for doing something!!!
+12/30/2017 1:43 PM: Timer has ticked for doing something!!!
+12/30/2017 1:44 PM: Timer has ticked for doing something!!!

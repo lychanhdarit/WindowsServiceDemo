@@ -1,0 +1,4 @@
+﻿Mở Dev Command với admin
+Về thư mục gốc: cd\
+Chuyển đến thư mục: cd /d D:\Duong dan\
+Cài đặt services: InstallUtil ten.exe

@@ -1,0 +1,8 @@
+D:\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.exe.config
+D:\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.exe
+D:\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.pdb
+D:\WindowsServiceDemo\WindowsServiceDemo\obj\Debug\WindowsServiceDemo.csprojResolveAssemblyReference.cache
+D:\WindowsServiceDemo\WindowsServiceDemo\obj\Debug\WindowsServiceDemo.ProjectInstaller.resources
+D:\WindowsServiceDemo\WindowsServiceDemo\obj\Debug\WindowsServiceDemo.csproj.GenerateResource.Cache
+D:\WindowsServiceDemo\WindowsServiceDemo\obj\Debug\WindowsServiceDemo.exe
+D:\WindowsServiceDemo\WindowsServiceDemo\obj\Debug\WindowsServiceDemo.pdb
